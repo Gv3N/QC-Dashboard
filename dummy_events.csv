@@ -1,0 +1,5 @@
+record_id,title,owner,status,open_date,due_date,close_date,severity
+CAPA-001,Dummy CAPA one,Aisha,Open,2026-09-01,2026-10-15,,Major
+CAPA-002,Dummy CAPA two,Ravi,Closed,2026-08-01,2026-09-30,2026-09-20,Minor
+CAPA-003,Dummy CAPA three,Lim,Open,2026-10-10,2026-11-20,,Minor
+DEV-001,Dummy deviation,Aisha,Open,2026-10-20,2026-11-05,,Critical
